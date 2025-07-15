@@ -139,6 +139,7 @@ background: rgba(82, 195, 3, 0.15);
 #social{
   width:740px;
   margin: 100px auto;
+  
  
 
 }
@@ -180,6 +181,10 @@ opacity: 0.6;
 
 }
 
+.co-header{
+    margin-top: 24px;
+}
+
 .header1{
     color: rgb(16, 16, 16);
 font-family: Work Sans;
@@ -188,7 +193,7 @@ font-weight: 600;
 line-height: 38px;
 letter-spacing: 0%;
 text-align: center;
-gap: 48;
+gap:16;
 }
 
 .social-media{
