@@ -136,3 +136,72 @@ border-radius: 8px;
 background: rgba(82, 195, 3, 0.15);
 }
 
+#social{
+  width:740px;
+  margin: 100px auto;
+ 
+
+}
+.social-contant{
+    display:flex;
+gap: 16;
+
+}
+
+.img-content{
+ width: 50%;
+ width: 710px;
+}
+
+.contant-box{
+   width: 50%;
+}
+
+.header{
+    color: rgb(16, 16, 16);
+font-family: Work Sans;
+font-size: 18px;
+font-weight: 700;
+line-height: 28px;
+letter-spacing: 0%;
+text-align: center;
+gap: 12;
+}
+
+.para{
+    color: rgb(16, 16, 16);
+font-family: Work Sans;
+font-size: 12px;
+font-weight: 500;
+line-height: 14px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.6;
+
+}
+
+.header1{
+    color: rgb(16, 16, 16);
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 38px;
+letter-spacing: 0%;
+text-align: center;
+gap: 48;
+}
+
+.social-media{
+    display:flex;
+    background-color:white;
+    padding:20px 20px;
+    text-align: center;
+}
+
+.b-btn{
+    
+    border: none;
+    padding: 10px 20px;
+    font-size: 2rem;
+    border-radius: 5px;
+}
